@@ -1,0 +1,317 @@
+# depslib dependency file v1.0
+1496405767 source:c:\users\temp\desktop\graphicsproject\main.cpp
+	"graphics.hpp"
+	"ososztaly.h"
+	"szamlalo.hpp"
+	"szamlalo2.hpp"
+	"vector"
+	"stdlib.h"
+	"time.h"
+	"iostream"
+	"kivalaszto.hpp"
+	"fstream"
+
+1330553510 c:\users\temp\desktop\graphicsproject\include\graphics.hpp
+	<string>
+
+1496300740 c:\users\temp\desktop\graphicsproject\ososztaly.h
+	<string>
+	"graphics.hpp"
+
+1496405641 c:\users\temp\desktop\graphicsproject\szamlalo.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+
+1496402680 c:\users\temp\desktop\graphicsproject\kivalaszto.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+	"vector"
+
+1496402690 source:c:\users\temp\desktop\graphicsproject\kivalaszto.cpp
+	"kivalaszto.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+	"vector"
+
+1496300740 source:c:\users\temp\desktop\graphicsproject\ososztaly.cpp
+	"ososztaly.h"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+
+1496405523 source:c:\users\temp\desktop\graphicsproject\szamlalo.cpp
+	"szamlalo.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+
+1496300740 source:c:\users\temp\desktop\lib\szamlalo es kivalaszto\kivalaszto.cpp
+	"kivalaszto.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+	"vector"
+
+1496300740 c:\users\temp\desktop\lib\szamlalo es kivalaszto\kivalaszto.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+	"vector"
+
+1496300740 c:\users\temp\desktop\lib\szamlalo es kivalaszto\ososztaly.h
+	<string>
+	"graphics.hpp"
+
+1496300740 source:c:\users\temp\desktop\lib\szamlalo es kivalaszto\main.cpp
+	"graphics.hpp"
+	"ososztaly.h"
+	"szamlalo.hpp"
+	"vector"
+	"stdlib.h"
+	"time.h"
+	"iostream"
+	"kivalaszto.hpp"
+	"fstream"
+
+1496300740 c:\users\temp\desktop\lib\szamlalo es kivalaszto\szamlalo.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+
+1496300740 source:c:\users\temp\desktop\lib\szamlalo es kivalaszto\ososztaly.cpp
+	"ososztaly.h"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+
+1496300740 source:c:\users\temp\desktop\lib\szamlalo es kivalaszto\szamlalo.cpp
+	"szamlalo.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+
+1496396130 c:\users\temp\desktop\graphicsproject\szamlalo2.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+
+1496403153 source:c:\users\temp\desktop\graphicsproject\szamlalo2.cpp
+	"szamlalo2.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+
+1496398517 source:c:\users\temp\desktop\graphicsproject\gomb.cpp
+
+1496406290 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\kivalaszto.cpp
+	"kivalaszto.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+	"vector"
+
+1496406280 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\kivalaszto.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+	"vector"
+
+1496304340 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\ososztaly.h
+	<string>
+	"graphics.hpp"
+
+1330553510 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\include\graphics.hpp
+	<string>
+
+1496409367 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\main.cpp
+	"graphics.hpp"
+	"ososztaly.h"
+	"szamlalo.hpp"
+	"szamlalo2.hpp"
+	"vector"
+	"stdlib.h"
+	"time.h"
+	"iostream"
+	"kivalaszto.hpp"
+	"fstream"
+
+1496409241 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\szamlalo.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+
+1496399730 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\szamlalo2.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+
+1496304340 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\ososztaly.cpp
+	"ososztaly.h"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+
+1496409123 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\szamlalo.cpp
+	"szamlalo.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+
+1496406753 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\flugi_zh_20170602\szues2\graphicsproject\szamlalo2.cpp
+	"szamlalo2.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+
+1496406290 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\kivalaszto.cpp
+	"kivalaszto.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+	"vector"
+
+1496406280 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\kivalaszto.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+	"vector"
+
+1496304340 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\ososztaly.h
+	<string>
+	"graphics.hpp"
+
+1330553510 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\include\graphics.hpp
+	<string>
+
+1497024308 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\main.cpp
+	"graphics.hpp"
+	"ososztaly.h"
+	"szamlalo.hpp"
+	"szamlalo2.hpp"
+	"vector"
+	"stdlib.h"
+	"time.h"
+	"iostream"
+	"kivalaszto.hpp"
+	"fstream"
+
+1496409241 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\szamlalo.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+
+1496399730 d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\szamlalo2.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+
+1496304340 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\ososztaly.cpp
+	"ososztaly.h"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+
+1496409123 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\szamlalo.cpp
+	"szamlalo.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+
+1496406753 source:d:\bevprog2\zhra gyakorl¡s\bevprog2_2017_1zh_feltoltesek\szues2\graphicsproject\szamlalo2.cpp
+	"szamlalo2.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+
+1497529988 source:d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\kivalaszto.cpp
+	"kivalaszto.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+	"vector"
+
+1496406280 d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\kivalaszto.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+	"vector"
+
+1496304340 d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\ososztaly.h
+	<string>
+	"graphics.hpp"
+
+1330553510 d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\include\graphics.hpp
+	<string>
+
+1497024308 source:d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\main.cpp
+	"graphics.hpp"
+	"ososztaly.h"
+	"szamlalo.hpp"
+	"szamlalo2.hpp"
+	"vector"
+	"stdlib.h"
+	"time.h"
+	"iostream"
+	"kivalaszto.hpp"
+	"fstream"
+
+1496409241 d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\szamlalo.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+
+1496399730 d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\szamlalo2.hpp
+	"ososztaly.h"
+	"graphics.hpp"
+
+1496304340 source:d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\ososztaly.cpp
+	"ososztaly.h"
+	"graphics.hpp"
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+
+1496409123 source:d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\szamlalo.cpp
+	"szamlalo.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+
+1496406753 source:d:\bevprog2\zhra gyakorl¡s\gyak2\szues2\graphicsproject\szamlalo2.cpp
+	"szamlalo2.hpp"
+	"ososztaly.h"
+	"graphics.hpp"
+	"cstdlib"
+	"sstream"
+	"iostream"
+
